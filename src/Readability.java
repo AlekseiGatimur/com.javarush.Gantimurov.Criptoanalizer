@@ -1,4 +1,3 @@
-import java.nio.file.Path;
 
 public class Readability {
 // Проверка на читабельность расшифрованного текста

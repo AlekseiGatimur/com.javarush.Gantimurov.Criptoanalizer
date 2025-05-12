@@ -4,6 +4,7 @@ out/
 !**/src/Test/**/out/
 /com.javarush.Gantimurov.Criptoanalizer.iml
 /Test
+/.idea
 ### Eclipse ###
 .apt_generated
 .classpath
