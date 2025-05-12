@@ -2,30 +2,6 @@
 out/
 !**/src/main/**/out/
 !**/src/Test/**/out/
-/com.javarush.Gantimurov.Criptoanalizer.iml
-/Test
-/.idea
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/Test/**/bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
+/com.javarush.GantimurovAleksei.Criptoanalizer.iml
+Test/
+.idea/
